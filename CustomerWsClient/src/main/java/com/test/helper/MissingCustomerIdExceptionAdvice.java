@@ -1,6 +1,6 @@
 package com.test.helper;
 
-import com.test.beans.Status;
+import com.test.dto.Status;
 import com.test.exception.MissingCustomerIdException;
 
 import org.springframework.http.HttpStatus;

@@ -1,8 +1,8 @@
 package com.test.controller;
 
-import com.test.beans.CustomerFindRequest;
-import com.test.beans.CustomerFindResponse;
-import com.test.beans.Status;
+import com.test.dto.CustomerFindRequest;
+import com.test.dto.CustomerFindResponse;
+import com.test.dto.Status;
 import com.test.exception.MissingCustomerIdException;
 import com.test.service.CustomerDelegatingService;
 

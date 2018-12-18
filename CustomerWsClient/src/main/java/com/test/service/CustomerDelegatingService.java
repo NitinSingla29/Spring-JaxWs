@@ -3,9 +3,9 @@ package com.test.service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.test.beans.CustomerFindRequest;
-import com.test.beans.CustomerFindResponse;
-import com.test.beans.Status;
+import com.test.dto.CustomerFindRequest;
+import com.test.dto.CustomerFindResponse;
+import com.test.dto.Status;
 import com.test.jax.ws.service.Customer;
 import com.test.jax.ws.service.CustomerRequest;
 import com.test.jax.ws.service.CustomerService;

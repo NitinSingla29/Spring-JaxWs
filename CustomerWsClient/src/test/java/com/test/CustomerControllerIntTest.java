@@ -11,9 +11,9 @@ import org.springframework.boot.web.server.LocalServerPort;
 import org.springframework.http.ResponseEntity;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.test.beans.CustomerFindRequest;
-import com.test.beans.CustomerFindResponse;
-import com.test.beans.Status;
+import com.test.dto.CustomerFindRequest;
+import com.test.dto.CustomerFindResponse;
+import com.test.dto.Status;
 
 
 @RunWith(SpringRunner.class)

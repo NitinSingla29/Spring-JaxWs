@@ -17,9 +17,9 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 
 import com.jayway.jsonpath.JsonPath;
-import com.test.beans.CustomerFindResponse;
-import com.test.beans.Status;
 import com.test.controller.CustomerController;
+import com.test.dto.CustomerFindResponse;
+import com.test.dto.Status;
 import com.test.jax.ws.service.Customer;
 import com.test.service.CustomerDelegatingService;
 

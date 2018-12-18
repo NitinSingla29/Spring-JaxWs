@@ -1,4 +1,4 @@
-package com.test.beans;
+package com.test.dto;
 
 public enum Status {
     SUCCESS,

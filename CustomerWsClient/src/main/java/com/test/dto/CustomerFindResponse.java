@@ -1,4 +1,4 @@
-package com.test.beans;
+package com.test.dto;
 
 import com.test.jax.ws.service.Customer;
 
