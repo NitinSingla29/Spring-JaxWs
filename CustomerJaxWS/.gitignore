@@ -12,4 +12,11 @@ target/
 *.tar.gz
 *.rar
 
+### IntelliJ IDEA ###
+.idea
+*.iws
 *.iml
+*.ipr
+/.settings/
+/.classpath
+/.project

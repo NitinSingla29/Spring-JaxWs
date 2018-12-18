@@ -1,4 +1,4 @@
-package com.test.jas.ws.domain;
+package com.test.jax.ws.domain;
 
 public class Customer {
 
@@ -8,7 +8,6 @@ public class Customer {
 
 	public Customer() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Customer(String id, String name) {
